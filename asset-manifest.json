@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AziatAbd.github.io/HW-20-redux-toolkit/static/css/main.073c9b0a.css",
-    "main.js": "/AziatAbd.github.io/HW-20-redux-toolkit/static/js/main.3f2d05b0.js",
-    "index.html": "/AziatAbd.github.io/HW-20-redux-toolkit/index.html",
-    "main.073c9b0a.css.map": "/AziatAbd.github.io/HW-20-redux-toolkit/static/css/main.073c9b0a.css.map",
-    "main.3f2d05b0.js.map": "/AziatAbd.github.io/HW-20-redux-toolkit/static/js/main.3f2d05b0.js.map"
+    "main.css": "/AziatAbd.github.io/HW-20-todo-redux-toolkit/static/css/main.073c9b0a.css",
+    "main.js": "/AziatAbd.github.io/HW-20-todo-redux-toolkit/static/js/main.9d7d1736.js",
+    "index.html": "/AziatAbd.github.io/HW-20-todo-redux-toolkit/index.html",
+    "main.073c9b0a.css.map": "/AziatAbd.github.io/HW-20-todo-redux-toolkit/static/css/main.073c9b0a.css.map",
+    "main.9d7d1736.js.map": "/AziatAbd.github.io/HW-20-todo-redux-toolkit/static/js/main.9d7d1736.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.3f2d05b0.js"
+    "static/js/main.9d7d1736.js"
   ]
 }
